@@ -8,5 +8,7 @@ namespace Github
 {
     internal class Class1
     {
+
+
     }
 }
